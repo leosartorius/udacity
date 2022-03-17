@@ -18,6 +18,10 @@ The project is composed of a 4 jupyter notebook files. All comments are provided
 
 Nothing special here, you just need a jupyter notebook instance running.
 
+## More information needed?
+
+Go there: https://medium.com/@leosartorius/betting-on-tennis-matches-how-simple-is-that-d70b60c4593
+
 ## License
 
 MIT
